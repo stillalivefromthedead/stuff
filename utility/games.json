@@ -1,1 +1,44 @@
--- dolbaeb
+[
+  {
+    "name": "Blox Strike",
+    "textColor": [255, 255, 255],
+    "flag": "goyimcheatsdotnet.lua",
+    "updatedDate": "hi",
+    "logoUrl": 114234929420007,
+    "textGradient": true,
+    "color1": [0, 0, 255],
+    "color2": [255, 255, 255]
+  },
+  {
+    "name": "Counter Blox",
+    "textColor": [122, 194, 20],
+    "flag": "flohackmain.lua",
+    "updatedDate": "later",
+    "logoUrl": 301549746,
+    "textGradient": true,
+    "color1": [100, 200, 50],
+    "color2": [50, 100, 20],
+    "rotation": 90
+  },
+  {
+    "name": "Operation One",
+    "textColor": [255, 255, 255],
+    "flag": "operationone.lua",
+    "updatedDate": "hello",
+    "logoUrl": 72920620366355,
+    "textGradient": true,
+    "color1": [0, 0, 255],
+    "color2": [255, 255, 255]
+  },
+  {
+    "name": "Universal",
+    "textColor": [122, 194, 20],
+    "flag": "flohackityuniversal.lua",
+    "updatedDate": "Soon",
+    "logoUrl": 181118,
+    "textGradient": true,
+    "color1": [100, 200, 50],
+    "color2": [50, 100, 20],
+    "rotation": 90
+  }
+]
